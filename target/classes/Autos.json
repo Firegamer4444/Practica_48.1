@@ -1,0 +1,45 @@
+{
+  "auto": [
+    {
+      "id": "001",
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "anio": "2023",
+      "color": "rojo",
+      "tipo_motor": "V8",
+      "cilindrada": "5.0",
+      "potencia": "450",
+      "transmision": {
+        "tipo": "manual",
+        "velocidades": "6"
+      }
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "anio": "2024",
+      "color": "azul",
+      "tipo_motor": "V6",
+      "cilindrada": "3.6",
+      "potencia": "335",
+      "transmision": {
+        "tipo": "automatica",
+        "velocidades": "10"
+      }
+    },
+    {
+      "id": "003",
+      "marca": "subaru",
+      "modelo": "foster",
+      "anio": "2014",
+      "color": "azul",
+      "tipo_motor": "v6",
+      "cilindrada": "5.5",
+      "potencia": "500",
+      "transmision": {
+        "tipo": "automatica",
+        "velocidades": "10"
+      }
+    }
+  ]
+}
